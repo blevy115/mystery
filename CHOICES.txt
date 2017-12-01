@@ -3,5 +3,5 @@ CHOICES
 First Choice: 1a
 Second Choice: 2a
 Third Choice: 3a/b
-Fourth Choice:/4d
-Fifth Choice: 5d/5c
+Fourth Choice:/4d/4b
+Fifth Choice: 5d/5c/5a
